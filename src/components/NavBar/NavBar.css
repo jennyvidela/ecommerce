@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rebeccapurple;
+    height: 100px;
+}
+.navbar .container{
+    height: 80px;
+}
+
+.navbar .container .navbar-brand img{
+    width: 100%;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: whitesmoke;
+}
